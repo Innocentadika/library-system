@@ -35,7 +35,7 @@ int menu() //header
     int action;
     do {
         printf("\tCounty Library\n");
-        printf("Welcome Levis Miano. \n");
+        printf("Welcome Innocent Mukovwa. \n");
         printf("What would you like to do?\n");
         printf("1. View Users.\n");
         printf("2. Add new User\n");
@@ -83,7 +83,7 @@ default :
 }
 void close(){
 printf("Thanks for using the system\n");
-printf("created by Levis Miano\n");
+printf("created by Innocent Mukovwa\n");
 printf("Bye\n");
 Sleep(2000);
 exit(0);
